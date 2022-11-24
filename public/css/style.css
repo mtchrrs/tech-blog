@@ -4,21 +4,23 @@
   box-sizing: border-box;
 }
 body {
-  background: rgb(188, 218, 188);
+  background: rgb(100, 173, 202);
 }
 /* Header code */
 header {
-  background: rgb(66, 17, 17);
-  color: rgb(188, 218, 188);
+  background: rgb(20, 105, 131);
+  color: rgb(247, 255, 247);
   padding: 1% 0 1% 0;
+  height: 200px;
 }
+
 .nav {
   display: flex;
   line-height: 2.5rem;
   padding-bottom: 3%;
 }
 .link {
-  color: rgb(188, 218, 188);
+  color: rgb(94, 225, 248);
   font-size: 1.5rem;
   margin: 0 5% 0 5%;
   text-decoration: none;
@@ -26,21 +28,22 @@ header {
 .app-title {
   margin-left: 10%;
   margin-top: 3%;
+  font-size: 3.5rem;
 }
 
 /* Card form code */
 .card {
-  width: 40%;
-  margin: 5% 35% 0 35%;
-  border: 1px solid grey;
-  border-radius: 15px;
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+  border: 5px solid rgb(255, 255, 255);
+  border-radius: 6px;
 }
 .card-header {
   font-size: 1.5rem;
   padding: 1% 0 1% 1%;
-  background: rgb(66, 17, 17);
+  background: rgb(1, 8, 104);
   color: white;
-  border-radius: 10px 10px 10px 10px;
 }
 
 /* Signup form code */
