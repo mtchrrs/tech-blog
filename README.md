@@ -57,7 +57,7 @@
 
   To ask any questions about this application, please follow the link to my GitHub, send me an email, or follow the links on my portfolio.
   
-  * https://github.com/mtchrr
-  * mitchell@westnet.com.au
-  * 
+  * https://github.com/mtchrrs
+  * mitchell.harris@westnet.com.au
+  
   
